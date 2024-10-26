@@ -29,7 +29,7 @@ def process_weather():
                 store_daily_summary(city, timestamp, avg_temp, max_temp, min_temp, dominant_condition, alert_triggered, humidity, wind_speed)
                 weather_records[city] = []  # Reset after processing
 
-schedule.every(10).minutes.do(process_weather)
+schedule.every(5).minutes.do(process_weather)
 
 
 if __name__ == "__main__":
