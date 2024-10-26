@@ -12,6 +12,7 @@ The Real-Time Data Processing System for Weather Monitoring aims to collect, agg
 ## Project Structure
 
 weather_monitoring/
+```
 │
 ├── app.py                     # Main application logic
 ├── weather_api.py              # API interaction logic
@@ -20,7 +21,8 @@ weather_monitoring/
 ├── alerts.py                   # Alerting logic
 ├── visualization.py            # Visualization functions (e.g., trends)
 ├── requirements.txt            # Required Python packages
-└── README.md   
+└── README.md
+```
 ## Features
 
 - Fetch live weather data for cities.
