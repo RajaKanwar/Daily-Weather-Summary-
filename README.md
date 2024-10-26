@@ -9,7 +9,18 @@ The Real-Time Data Processing System for Weather Monitoring aims to collect, agg
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajaKanwar/Daily-Weather-Summary-.git)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-kanwar)
 
+## Project Structure
 
+weather_monitoring/
+│
+├── app.py                     # Main application logic
+├── weather_api.py              # API interaction logic
+├── database.py                 # Database connection and models
+├── aggregation.py              # Data aggregation functions (rollups & aggregates)
+├── alerts.py                   # Alerting logic
+├── visualization.py            # Visualization functions (e.g., trends)
+├── requirements.txt            # Required Python packages
+└── README.md   
 ## Features
 
 - Fetch live weather data for cities.
