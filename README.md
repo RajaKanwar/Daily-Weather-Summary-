@@ -139,7 +139,7 @@ Function: *visualize_all_cities_weather()*
 Visualizes the weather data for all cities in graphical format.
 ## Screenshots
 
-![Table Date](https://drive.google.com/file/d/1_Nn63cApMuorGtYBGFfb2PV4h-pmw6kR/view?usp=sharing)
+[Table Date](https://drive.google.com/file/d/1_Nn63cApMuorGtYBGFfb2PV4h-pmw6kR/view?usp=sharing)
 
-![Visualization](https://drive.google.com/file/d/1rj7HiW4hdTj0EKhl99qE8-OzhvYbYN3F/view?usp=sharing)
+[Visualization](https://drive.google.com/file/d/1rj7HiW4hdTj0EKhl99qE8-OzhvYbYN3F/view?usp=sharing)
 
